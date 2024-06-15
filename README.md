@@ -1,4 +1,4 @@
-<!DOCTYYPE html>
+
 <html>
 
  <link
